@@ -1,0 +1,34 @@
+{
+    "llistaempleats":
+    {
+        "empleats":[
+
+        
+        {
+            "nom":"Roberto",
+            "cognom":"Pineda",
+            "direccio":"Carrer del Carme 43",
+            "ciutat":"Barcelona",
+            "email":"robertopineda44@gmail.com",
+            "telefon":647395794
+
+        },
+
+        {
+            "nom":"Sergio",
+            "cognom":"Pineda",
+            "direccio":"Carrer del Carme 44",
+            "ciutat":"Barcelona",
+            "email":"sergiopineda45@gmail.com",
+            "telefon":647395793
+        }
+    
+                ]
+    }
+
+
+
+
+
+
+}
