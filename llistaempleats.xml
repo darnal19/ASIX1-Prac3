@@ -1,0 +1,21 @@
+<llistaempleats>
+
+                <empleats>
+                    <nom>Roberto</nom>
+                    <cognom>Pineda</cognom>
+                    <direccio>Carrer del Carme 43</direccio>
+                    <ciutat> Barcelona </ciutat>
+                    <email> robertopineda44@gmail.com </email>
+                    <telefon>647395794</telefon>
+                </empleats>
+                
+                <empleats>
+                    <nom>Sergio</nom>
+                    <cognom>Pineda</cognom>
+                    <direccio>Carrer del Carme 44</direccio>
+                    <ciutat> Barcelona </ciutat>
+                    <email> sergiopineda44@gmail.com </email>
+                    <telefon>647395793</telefon>
+                </empleats>
+                
+</llistaempleats>
